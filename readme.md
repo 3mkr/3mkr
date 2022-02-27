@@ -1,9 +1,10 @@
-Hello there!
+##Hello there!
+
 ♦️ I study computer science at the faculty of Mathematics, Informatics and Mechanics at the University of Warsaw;
 
 ♦️ I enjoy coding in JavaScript, C++ and Java;
 
-♦️ I'm interested in gamedev, cryptology and web aplications;
+♦️ I'm interested in game dev, cryptology and web applications;
 
 ♦️ I would love to learn something new about Flutter;
 
