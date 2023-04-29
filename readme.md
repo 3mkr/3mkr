@@ -2,11 +2,11 @@
 
 ♦️ I study computer science at the faculty of Mathematics, Informatics and Mechanics at the University of Warsaw;
 
-♦️ I enjoy coding in JavaScript, C++ and Java;
+♦️ I enjoy coding in Haskell, C++ and Java;
 
-♦️ I'm interested in game dev, cryptology and web applications;
+♦️ I'm interested in game dev, cryptology and AI;
 
-♦️ I would love to learn something about Flutter;
+♦️ I would love to learn something about Machine Learning;
 
 
 If I learned one thing during my studies, it would be this:
