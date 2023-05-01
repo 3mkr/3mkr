@@ -6,6 +6,8 @@
 
 ♦️ I'm interested in game dev, cryptology and AI;
 
+♦️ I'm a Certified Salesfoce Developer;
+
 ♦️ I would love to learn something about Machine Learning;
 
 
